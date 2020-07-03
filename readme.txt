@@ -1,1 +1,1 @@
-abc
+all about my study in computer science！
